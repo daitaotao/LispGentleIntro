@@ -1,2 +1,3 @@
 # LispGentleIntro
 learning
+by cncounter 
